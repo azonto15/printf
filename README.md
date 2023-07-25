@@ -3,7 +3,7 @@ samuelTen10(Collaborator) - Printf Project
 ---------------------------------------------
 
 0. Wrote a function that produces output according to a format.
-	Prototype: int _printf(const char *format, ...);
+	* Prototype: int _printf(const char *format, ...);
 
 1. Wrote a function that Handle the following conversion specifiers:
 
