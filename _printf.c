@@ -2,6 +2,7 @@
 
 /**
 * _printf - prints anything
+*
 * @format: format of the string
  *
  * Return: Always 0.
