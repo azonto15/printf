@@ -2,12 +2,14 @@
 
 /**
  * print_unsigned - prints an unsigned int
+ *
  * @types: list of arguments
  * @buffer: buffer array
  * @flags: calculated active flags
  * @width: the width
  * @precision: precision specification
  * @size: size specifier
+ *
  * Return: Always 0.
 */
 
@@ -42,6 +44,7 @@ return (write_unsgnd(0, i, buffer, flags, width, precision, size));
 * @width: the width
 * @precision: precision specification
 * @size: size specifier
+*
 * Return: Always 0.
 */
 
